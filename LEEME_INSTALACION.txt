@@ -4,3 +4,5 @@ Actualiza Netlify con los archivos del ZIP. No requiere SQL nuevo.
 Antes de reemplazar datos, guarda copias locales si contienen información real.
 Si vuelve a fallar, conserva el mensaje exacto y comprueba el número de viajes en la nube.
 La aplicación NO fusiona cambios simultáneos de varios dispositivos.
+
+Version 4.4: canon gasoleo por semana (lunes-domingo). Las configuraciones mensuales anteriores se conservan en historico, sin aplicarse a viajes nuevos.
