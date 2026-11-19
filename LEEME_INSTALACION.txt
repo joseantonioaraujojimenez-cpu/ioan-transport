@@ -6,3 +6,5 @@ Si vuelve a fallar, conserva el mensaje exacto y comprueba el número de viajes 
 La aplicación NO fusiona cambios simultáneos de varios dispositivos.
 
 Version 4.4: canon gasoleo por semana (lunes-domingo). Las configuraciones mensuales anteriores se conservan en historico, sin aplicarse a viajes nuevos.
+
+Version 4.7: bandera de Rumania extendida a todo el ancho en la parte superior.
